@@ -6,8 +6,8 @@ set autoread
 syntax on
 filetype on                  " required
 augroup lan_configs
-	autocmd FileType cpp source /home/linzet/configs/cpp.vim
-	autocmd FileType python source /home/linzet/configs/python.vim
+	autocmd FileType cpp source /etc/vim/configs/cpp.vim
+	autocmd FileType python source /etc/vim/configs/python.vim
 augroup END	
 " Key bindings
 nmap <F4> :q!<CR>
@@ -22,11 +22,6 @@ set backspace=2
 set wildmode=longest:list,full
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
-	Plugin 'MarcWeber/vim-addon-mw-utils'
-	Plugin 'tomtom/tlib_vim'
-	Plugin 'octol/vim-cpp-enhanced-highlight'
-	Plugin 'nightsense/simplifysimplify' 
-""	Plugin 'ervandew/supertab'
 	Plugin 'bling/vim-airline'
 	Plugin 'VundleVim/Vundle.vim'
 call vundle#end()       
