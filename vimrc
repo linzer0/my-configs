@@ -26,16 +26,18 @@ set backspace=indent,eol,start
 set backspace=2
 set wildmode=longest:list,full
 
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-	Plugin 'bling/vim-airline'
+set rtp+=~/.vim/bundle/vundle/
 
-	Plugin 'google/vim-maktaba'
-	Plugin 'google/vim-codefmt'
-	Plugin 'google/vim-glaive'
+packadd YouCompleteMe
 
-	Plugin 'VundleVim/Vundle.vim'
-call vundle#end()       
+call vundle#rc()
+
+	Bundle 'gmarik/vundle'
+	Bundle 'bling/vim-airline'
+	"Budnle 'valloric/youcompleteme'
+	Bundle 'google/vim-maktaba'
+	Bundle 'google/vim-codefmt'
+	Bundle 'google/vim-glaive'
 
 augroup autoformat_settings
   autocmd FileType c,cpp,proto,javascript AutoFormatBuffer clang-format

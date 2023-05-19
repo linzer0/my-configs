@@ -1,0 +1,153 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="PerfomanceTest_OldVersion" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/FPSCounter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+              <folding>
+                <marker date="1680171156000" expanded="true" signature="54:58" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Orbox/Utils/FPSLabel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1672148704000" expanded="true" signature="1853:1986" ph="/* probably some unity bug here, Use 1.0f sclase to avoid ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="2" lastUsed="1680180021599" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.PerfomanceTest_OldVersion/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="2" lastUsage="1680180021599" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="Orbox" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="640000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21785527" />
+      <window_info id="Structure" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.27858528" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="4" />
+      <window_info anchor="bottom" id="Inspection Results" order="4" weight="0.32994187" />
+      <window_info anchor="right" id="Database" order="0" show_stripe_button="false" weight="0.32977617" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25013012" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="218" width="672" height="696" key="search.everywhere.popup" timestamp="1680180021610">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="218" width="672" height="696" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1680180021610" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/FPSCounter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <marker date="1680171156000" expanded="true" signature="54:58" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Orbox/Utils/FPSLabel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1672148704000" expanded="true" signature="1853:1986" ph="/* probably some unity bug here, Use 1.0f sclase to avoid ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -9,8 +9,18 @@ set is	"" use sequence search
 set ic	"" ignore case
 set hlsearch
 "" Search Settings end
+
+set textwidth=80
+set colorcolumn=80
+highlight ColorColumn ctermbg=darkgray
+
 set backspace=indent,eol,start
 set backspace=2
+set tabstop=2
+set softtabstop=2
+set shiftwidth=2
+set expandtab
+
 abbr inc include
 
 set wildmode=longest:list,full

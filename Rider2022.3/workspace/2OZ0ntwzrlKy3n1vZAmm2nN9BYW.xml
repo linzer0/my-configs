@@ -1,0 +1,353 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Patterns" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Patterns/Program.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="440">
+                  <caret line="20" selection-start-line="20" selection-end-line="20" />
+                  <folding>
+                    <marker date="1681753405180" expanded="true" signature="43:504" ph="{...}" />
+                    <marker date="1681753405180" expanded="true" signature="72:502" ph="{...}" />
+                    <marker date="1681753405180" expanded="true" signature="266:496" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Patterns/Factory/EntityFactory.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="132">
+                  <caret line="6" selection-start-line="6" selection-end-line="6" />
+                  <folding>
+                    <marker date="1681753405109" expanded="true" signature="26:266" ph="{...}" />
+                    <marker date="1681753405109" expanded="true" signature="58:127" ph="{...}" />
+                    <marker date="1681753405109" expanded="true" signature="179:264" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Patterns/Factory/PlayerFactory.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="198">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
+                  <folding>
+                    <marker date="1681753405250" expanded="true" signature="26:227" ph="{...}" />
+                    <marker date="1681753405250" expanded="true" signature="75:225" ph="{...}" />
+                    <marker date="1681753405250" expanded="true" signature="153:219" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Patterns/Factory/EnemyFactory.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="132">
+                  <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+                  <folding>
+                    <marker date="1681753405135" expanded="true" signature="26:225" ph="{...}" />
+                    <marker date="1681753405135" expanded="true" signature="74:223" ph="{...}" />
+                    <marker date="1681753405135" expanded="true" signature="152:217" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Patterns/Factory/Enitites/IEntity.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="176">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Patterns/Factory/Enitites/Enemy.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="198">
+                  <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+                  <folding>
+                    <marker date="1681753405216" expanded="true" signature="41:399" ph="{...}" />
+                    <marker date="1681753405216" expanded="true" signature="76:397" ph="{...}" />
+                    <marker date="1681753405216" expanded="true" signature="214:287" ph="{...}" />
+                    <marker date="1681753405216" expanded="true" signature="341:391" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Patterns/Factory/Enitites/Player.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+                  <folding>
+                    <marker date="1681753405286" expanded="true" signature="41:389" ph="{...}" />
+                    <marker date="1681753405286" expanded="true" signature="77:387" ph="{...}" />
+                    <marker date="1681753405286" expanded="true" signature="216:285" ph="{...}" />
+                    <marker date="1681753405286" expanded="true" signature="331:381" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="8" lastUsed="1681753255849" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Patterns/Factory/IEntity.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/Player.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/PlayerFactory.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/Enitites/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/Enitites/Player.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/EnemyFactory.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Factory/EntityFactory.cs" />
+      <option value="$PROJECT_DIR$/Patterns/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Patterns/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="8" lastUsage="1681753255849" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Factory" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Patterns" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Factory" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="EnemyFactory.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.Patterns" executorId="Run" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="563000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Commit" sideWeight="0.5005208" weight="0.15519959" />
+      <window_info id="Structure" order="0" sideWeight="0.49948347" side_tool="true" weight="0.15538782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50051653" visible="true" weight="0.20484123" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32994187" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" show_stripe_button="false" weight="0.32994187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.47819766" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Inspection Results" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="4" weight="0.32994187" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" show_stripe_button="false" weight="0.32977617" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25013012" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Build</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1839" height="298" key="GridCell.Tab.0.bottom" timestamp="1681753538528">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681753538528" />
+    <state width="1839" height="298" key="GridCell.Tab.0.center" timestamp="1681753538528">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="298" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681753538528" />
+    <state width="1839" height="298" key="GridCell.Tab.0.left" timestamp="1681753538528">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="298" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681753538528" />
+    <state width="1839" height="298" key="GridCell.Tab.0.right" timestamp="1681753538528">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="298" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681753538528" />
+    <state x="765" y="200" key="RiderGenerateDialog" timestamp="1681753105746">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="765" y="200" key="RiderGenerateDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1681753105746" />
+    <state x="616" y="233" key="run.anything.popup" timestamp="1681753186976">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="233" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1681753186976" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Patterns/Factory/Enitites/IEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/Factory/Enitites/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding>
+            <marker date="1681753405286" expanded="true" signature="41:389" ph="{...}" />
+            <marker date="1681753405286" expanded="true" signature="77:387" ph="{...}" />
+            <marker date="1681753405286" expanded="true" signature="216:285" ph="{...}" />
+            <marker date="1681753405286" expanded="true" signature="331:381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/Factory/Enitites/Enemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <marker date="1681753405216" expanded="true" signature="41:399" ph="{...}" />
+            <marker date="1681753405216" expanded="true" signature="76:397" ph="{...}" />
+            <marker date="1681753405216" expanded="true" signature="214:287" ph="{...}" />
+            <marker date="1681753405216" expanded="true" signature="341:391" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/Factory/PlayerFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1681753405250" expanded="true" signature="26:227" ph="{...}" />
+            <marker date="1681753405250" expanded="true" signature="75:225" ph="{...}" />
+            <marker date="1681753405250" expanded="true" signature="153:219" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/Factory/EnemyFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <marker date="1681753405135" expanded="true" signature="26:225" ph="{...}" />
+            <marker date="1681753405135" expanded="true" signature="74:223" ph="{...}" />
+            <marker date="1681753405135" expanded="true" signature="152:217" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/Factory/EntityFactory.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <marker date="1681753405109" expanded="true" signature="26:266" ph="{...}" />
+            <marker date="1681753405109" expanded="true" signature="58:127" ph="{...}" />
+            <marker date="1681753405109" expanded="true" signature="179:264" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Patterns/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1681753405180" expanded="true" signature="43:504" ph="{...}" />
+            <marker date="1681753405180" expanded="true" signature="72:502" ph="{...}" />
+            <marker date="1681753405180" expanded="true" signature="266:496" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

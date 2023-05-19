@@ -1,0 +1,366 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">VW5sb2Nr</entry>
+        <entry encoding="base64">TG9jYXRpb24=</entry>
+        <entry encoding="base64">NTUw</entry>
+        <entry encoding="base64">IklkIjogNjM=</entry>
+        <entry encoding="base64">MTA2Mw==</entry>
+        <entry encoding="base64">MTE2Mw==</entry>
+        <entry encoding="base64">MjQ1</entry>
+        <entry encoding="base64">MzQ1</entry>
+        <entry encoding="base64">MTA0NQ==</entry>
+        <entry encoding="base64">MTE0NQ==</entry>
+        <entry encoding="base64">MTI0NQ==</entry>
+        <entry encoding="base64">MTM0NQ==</entry>
+        <entry encoding="base64">MTU0NQ==</entry>
+        <entry encoding="base64">MTQ1</entry>
+        <entry encoding="base64">MTQ0</entry>
+        <entry encoding="base64">IklkIjogNDY=</entry>
+        <entry encoding="base64">MTA0Ng==</entry>
+        <entry encoding="base64">MTI0Ng==</entry>
+        <entry encoding="base64">SWQ6MTAx</entry>
+        <entry encoding="base64">MTAwMQ==</entry>
+        <entry encoding="base64">IklkIjogMTAx</entry>
+        <entry encoding="base64">RmVuY2U=</entry>
+        <entry encoding="base64">SGVybw==</entry>
+        <entry encoding="base64">U21va2VFZmZlY3Q=</entry>
+        <entry encoding="base64">IklkIjogNDc=</entry>
+        <entry encoding="base64">NjM=</entry>
+        <entry encoding="base64">IklkIjogNjE=</entry>
+        <entry encoding="base64">IklkIjogODk=</entry>
+        <entry encoding="base64">IklkIjogNTE=</entry>
+        <entry encoding="base64">UHJpdmF0ZQ==</entry>
+        <entry encoding="base64">U3VwcGx5</entry>
+        <entry encoding="base64">U2tpbGw=</entry>
+        <entry encoding="base64">TWlsaXRyYXk=</entry>
+        <entry encoding="base64">R2V0UGxheWVySW5mbw==</entry>
+        <entry encoding="base64">R2V0UmVnaW9uSW5mbw==</entry>
+        <entry encoding="base64">R2V0UmVnaW9u</entry>
+        <entry encoding="base64">IklkIjogMTQ0NQ==</entry>
+        <entry encoding="base64">U2V0</entry>
+        <entry encoding="base64">R2V0UmVnaW9vbg==</entry>
+        <entry encoding="base64">R2VyQXJlYW5hcw==</entry>
+        <entry encoding="base64">R2V0QXJlbmE=</entry>
+        <entry encoding="base64">R2V0QXV0aA==</entry>
+        <entry encoding="base64">R2V0</entry>
+        <entry encoding="base64">U2V0SGVybw==</entry>
+        <entry encoding="base64">R2V0TW92ZXI=</entry>
+        <entry encoding="base64">Q2FuQXR0YWNr</entry>
+        <entry encoding="base64">R2FtZU9iamVjdA==</entry>
+        <entry encoding="base64">R2V0TW9ubw==</entry>
+        <entry encoding="base64">R2V0UGxheWVy</entry>
+        <entry encoding="base64">R2V0UGxheWVyQ3JlZXA=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">NjA2</entry>
+        <entry encoding="base64">MTM4Ng==</entry>
+        <entry encoding="base64">MTM4NQ==</entry>
+        <entry encoding="base64">MjcxOA==</entry>
+        <entry encoding="base64">MzY1</entry>
+        <entry encoding="base64">Lm9kZWE=</entry>
+        <entry encoding="base64">Li9pZGVh</entry>
+        <entry encoding="base64">LjM4</entry>
+        <entry encoding="base64">MTA=</entry>
+        <entry encoding="base64">MzI=</entry>
+        <entry encoding="base64">NQ==</entry>
+        <entry encoding="base64">Mg==</entry>
+        <entry encoding="base64">MjE=</entry>
+        <entry encoding="base64">MTg=</entry>
+        <entry encoding="base64">OA==</entry>
+        <entry encoding="base64">Mjg=</entry>
+        <entry encoding="base64">Mw==</entry>
+        <entry encoding="base64">OQ==</entry>
+        <entry encoding="base64">MQ==</entry>
+        <entry encoding="base64">MTQ1</entry>
+        <entry encoding="base64">LzE0NQ==</entry>
+        <entry encoding="base64">NTk0Mg==</entry>
+        <entry encoding="base64">MjU5</entry>
+        <entry encoding="base64">MTExMTE=</entry>
+        <entry encoding="base64">MzM=</entry>
+        <entry encoding="base64">NTg=</entry>
+        <entry encoding="base64">MTI=</entry>
+        <entry encoding="base64">MTk=</entry>
+        <entry encoding="base64">MzQ=</entry>
+        <entry encoding="base64">MzA=</entry>
+        <entry encoding="base64">NDg=</entry>
+        <entry encoding="base64">Mjk=</entry>
+        <entry encoding="base64">MjA=</entry>
+        <entry encoding="base64">MzE=</entry>
+        <entry encoding="base64">Mzc=</entry>
+        <entry encoding="base64">Ng==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Stats/Stats.cs" timestamp="1683891704555">
+        <mark key="[" line="57" column="20" />
+        <mark key="]" line="57" column="51" />
+        <mark key="^" line="57" column="51" />
+        <mark key="." line="57" column="50" />
+      </file>
+      <file name="/Immediate Window" timestamp="1683810110000">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/ReleaseComposition.cs" timestamp="1683892706270">
+        <mark key="'" line="97" column="80" />
+        <mark key="[" line="399" column="0" />
+        <mark key="]" line="399" column="0" />
+        <mark key="." line="399" column="0" />
+        <mark key="^" line="398" column="34" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/Units/Zombie.cs" timestamp="1683797256842">
+        <mark key="'" line="41" column="67" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="39" column="48" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Barracks/Barracks.cs" timestamp="1683891719709">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="90" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Interfaces/ITarget.cs" timestamp="1683890617452">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/CompositionRoot.cs" timestamp="1683892671964">
+        <mark key="[" line="206" column="22" />
+        <mark key="]" line="208" column="51" />
+        <mark key="." line="208" column="50" />
+        <mark key="^" line="208" column="51" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/LineMover.cs" timestamp="1683892717840">
+        <mark key="[" line="9" column="35" />
+        <mark key="]" line="9" column="35" />
+        <mark key="^" line="9" column="35" />
+        <mark key="." line="9" column="34" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Stats/StatsProvider.cs" timestamp="1683891907808">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
+        <mark key="." line="95" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/Units/ArrowAlive.cs" timestamp="1683810703882">
+        <mark key="'" line="20" column="41" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
+        <mark key="^" line="51" column="60" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/Units/ZombieSmall.cs" timestamp="1683797270223">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Skills/ArcherSkill.cs" timestamp="1683891726502">
+        <mark key="[" line="9" column="75" />
+        <mark key="]" line="9" column="102" />
+        <mark key="." line="9" column="101" />
+        <mark key="^" line="9" column="102" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Interfaces/ICharacter.cs" timestamp="1683809169366">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="2" column="74" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Skills/ReaperSkill.cs" timestamp="1683890639572">
+        <mark key="[" line="14" column="37" />
+        <mark key="]" line="11" column="51" />
+        <mark key="." line="11" column="52" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/IComposition.cs" timestamp="1683892614532">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/ISkillable.cs" timestamp="1683809158156">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="23" />
+        <mark key="^" line="4" column="24" />
+      </file>
+      <file name="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Skills/FrostMageSkill.cs" timestamp="1683891734082">
+        <mark key="[" line="9" column="72" />
+        <mark key="]" line="9" column="99" />
+        <mark key="^" line="9" column="99" />
+        <mark key="." line="9" column="98" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="24" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/MapCreator.cs" />
+      <jump line="27" column="33" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/MapCreator.cs" />
+      <jump line="45" column="31" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/MapCreator.cs" />
+      <jump line="82" column="16" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/MapCreator.cs" />
+      <jump line="123" column="21" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/MapCreator.cs" />
+      <jump line="23" column="12" filename="E:/Learninng/Unity/Solution/Assets/Scripts/Enemy/EnemyCreator.cs" />
+      <jump line="179" column="37" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="190" column="46" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="185" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="86" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Tutorial/FirstModulePreparation.cs" />
+      <jump line="120" column="70" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Tutorial/FirstModulePreparation.cs" />
+      <jump line="65" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/HeroCreator.cs" />
+      <jump line="75" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/HeroCreator.cs" />
+      <jump line="80" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/HeroCreator.cs" />
+      <jump line="85" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/HeroCreator.cs" />
+      <jump line="88" column="23" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/HeroCreator.cs" />
+      <jump line="122" column="37" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/Content/MyAssets/Scripts/Map/HeroCreator.cs" />
+      <jump line="124" column="8" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/UserInterafce/CoreScreen.cs" />
+      <jump line="236" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="221" column="12" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="1805" column="8" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="402" column="12" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="239" column="31" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="96" column="12" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="241" column="16" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="269" column="16" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="451" column="146" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="476" column="30" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="620" column="47" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="947" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="177" column="2" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="109" column="26" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="15" column="23" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="246" column="19" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="453" column="19" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="242" column="19" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="18" column="5" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="2558" column="2" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="2576" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="2593" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="110" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="155" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="4" column="14" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="2592" column="2" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="5786" column="3" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="2474" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="5675" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="104" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="30" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="200" column="21" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="226" column="6" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="224" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="5865" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="144" column="4" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="236" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="242" column="21" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="247" column="26" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="212" column="21" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="6" column="26" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="24" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Arenas.json" />
+      <jump line="5941" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="258" column="11" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="272" column="20" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="395" column="18" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="19" column="4" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="40" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Enums/EVisualEffects.cs" />
+      <jump line="53" column="16" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Enums/EVisualEffects.cs" />
+      <jump line="6" column="12" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Enums/EVisualEffects.cs" />
+      <jump line="0" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="1995" column="4" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="2652" column="10" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="0" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Chests.json" />
+      <jump line="2761" column="4" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Chests.json" />
+      <jump line="37" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Characters.json" />
+      <jump line="145" column="2" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Characters.json" />
+      <jump line="369" column="16" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Tutorial/FirstModuleTutorial.cs" />
+      <jump line="76" column="31" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Tutorial/FirstModuleTutorial.cs" />
+      <jump line="8" column="17" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="1476" column="7" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="915" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="1479" column="28" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="1533" column="29" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="1651" column="32" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/PlayerProfile/Profile.cs" />
+      <jump line="2605" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/CPC/Resources/Configs/Rewards.json" />
+      <jump line="122" column="0" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="496" column="8" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="34" column="22" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Meta/Common/Starter.cs" />
+      <jump line="101" column="12" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Tutorial/NinthMetaTutorialStage.cs" />
+      <jump line="28" column="31" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="586" column="54" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="22" column="42" filename="G:/Work/Projects/td-pvp/CastleFight/Assets/MergePunk/Scripts/Core/FightEnd/BattleResultView.cs" />
+      <jump line="0" column="0" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="37" column="22" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="7" column="29" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/CPC/Resources/Configs/Characters.json" />
+      <jump line="36" column="57" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Core/Waves/WaveCreator.cs" />
+      <jump line="20" column="41" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/Units/ArrowAlive.cs" />
+      <jump line="66" column="4" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Interfaces/IStats.cs" />
+      <jump line="93" column="80" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/ReleaseComposition.cs" />
+      <jump line="40" column="67" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Characters/Units/Zombie.cs" />
+      <jump line="6" column="17" filename="G:/Work/Projects/merge-royale/merge-royale/Assets/MergeRoyale/Scripts/Composition/CompositionRoot.cs" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
+      <register name="b" type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">SU1CRQ==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">R2V0UGxheWVyQ3JlZXA=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">IFN0YXRzLkNsZWFyKCk7CiAgICAgICAgICAgIAogICAgICAgICAgICBmb3JlYWNoICh2YXIgc3RhdCBpbiBzdGF0c0xpc3QpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGZsb2F0IHN1bVN0YXQgPSBzdGF0LkJhc2VWYWx1ZSArIHN0YXQuTWV0YUdyYWRlTGV2ZWxWYWx1ZVttZXRhTGV2ZWxdICsgc3RhdC5Db3JlR3JhZGVMZXZlbFZhbHVlW2NvcmVMZXZlbF0gKyBzdGF0Lk1lcmdlR3JhZGVMZXZlbFZhbHVlW21lcmdlTGV2ZWxdOwogICAgICAgICAgICAgICAgdmFyIHN0YXJ0U3RhdCA9IG5ldyBTdGF0VmFsdWUKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICBUeXBlID0gc3RhdC5TdGF0c1R5cGUsCiAgICAgICAgICAgICAgICAgICAgVmFsdWUgPSBzdW1TdGF0CiAgICAgICAgICAgICAgICB9OwogICAgICAgICAgICAgICAgQWRkU3RhdFZhbHVlKHN0YXJ0U3RhdCk7CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFN5c3RlbS5Ob3RJbXBsZW1lbnRlZEV4Y2VwdGlvbigpOwo=</text>
+      </register>
+      <register name="q" type="4">
+        <text encoding="base64" />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdHNbRVN0YXRzLkhlYWx0aF0uQ29uCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgU3RhdHMuSGFzCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0YXRTdW0gKz0gZWxlbWVudC5WYWx1ZTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcmFjdGVyLkFkZFN0YXRWYWx1ZShuZXcgU3RhdFZhbHVlKEVTdGF0cy5BdHRhY2tJbnRlcnZhbCwgLTFmKSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9UT0RPIG1ha2UgaXQgcGVyY2VudCBzdGF0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL1RPRE8gQ3JlYXRlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBwdWJsaWMgdm9pZCBJbnN0YW50S2lsbCgpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUYXJnZXQuCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">Ng==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">R2V0UGxheWVyQ3JlZXA=</last-search>
+      <last-pattern encoding="base64">R2V0UGxheWVyQ3JlZXA=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>

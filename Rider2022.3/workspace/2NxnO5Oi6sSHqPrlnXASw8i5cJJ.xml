@@ -1,0 +1,1425 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Solution" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="HEAD_NODE" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/EnemyCreator.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <element signature="e#0#52#0" expanded="true" />
+                    <marker date="1681751398261" expanded="true" signature="120:2751" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="433:932" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="652:921" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="1017:1336" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="1261:1326" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="1378:1517" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="1570:2119" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="2194:2443" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="2267:2387" ph="{...}" />
+                    <marker date="1681751398261" expanded="true" signature="2488:2745" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Entity.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-22">
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                    <marker date="1681738279855" expanded="true" signature="107:1235" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="540:649" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="695:956" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="732:823" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="840:946" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="987:1046" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="1079:1138" ph="{...}" />
+                    <marker date="1681738279855" expanded="true" signature="1172:1229" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/IDamageable.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <marker date="1681737785693" expanded="true" signature="69:262" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/IDamageDealer.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <marker date="1681737981051" expanded="true" signature="55:109" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/IEntityStats.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <marker date="1681737785649" expanded="true" signature="54:107" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/EntityData.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <marker date="1681738279751" expanded="true" signature="106:752" ph="{...}" />
+                    <marker date="1681738279751" expanded="true" signature="421:553" ph="{...}" />
+                    <marker date="1681738279751" expanded="true" signature="599:746" ph="{...}" />
+                    <marker date="1681738279751" expanded="true" signature="677:736" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/Enemy.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state>
+                  <folding>
+                    <marker date="1681751398274" expanded="true" signature="88:1131" ph="{...}" />
+                    <marker date="1681751398274" expanded="true" signature="394:455" ph="{...}" />
+                    <marker date="1681751398274" expanded="true" signature="516:574" ph="{...}" />
+                    <marker date="1681751398274" expanded="true" signature="612:738" ph="{...}" />
+                    <marker date="1681751398274" expanded="true" signature="798:999" ph="{...}" />
+                    <marker date="1681751398274" expanded="true" signature="900:989" ph="{...}" />
+                    <marker date="1681751398274" expanded="true" signature="1040:1125" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="C#">
+      <summary usageCount="381" lastUsed="1683121212119" />
+    </fileType>
+    <fileType name="Csproj">
+      <summary usageCount="1" lastUsed="1681158074747" />
+    </fileType>
+    <fileType name="DIFF">
+      <summary usageCount="11" lastUsed="1683120926351" />
+    </fileType>
+    <fileType name="JSON">
+      <summary usageCount="8" lastUsed="1681198291268" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1681198516907" />
+    </fileType>
+    <fileType name="UnityYaml">
+      <summary usageCount="1" lastUsed="1681132271280" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Rusher</find>
+      <find>namespace</find>
+      <find>throw new</find>
+      <find>Follower</find>
+    </findStrings>
+    <dirStrings>
+      <dir>E:\Learninng\Unity\Solution\Assets\TankGame\Scripts\Enemy</dir>
+      <dir>E:\Learninng\Unity\Solution\Assets\TankGame\Scripts\Tank</dir>
+      <dir>E:\Learninng\Unity\Solution\Assets\TankGame\Scripts</dir>
+      <dir>E:\Learninng\Unity\Solution\Assets\TankGame\Scripts\Weapons</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EEntity.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EWeapons.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/IResourceManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Input/EInputCommands.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Input/IInputHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Input/InputHandler.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/IDamageable.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/EnemyCreator.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/FollowerEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/Rusher.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/ResourceLoader.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/ResourceManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/ResourceManager/IResourceManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/ResourceManager/EnumPair.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EProjectiles.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/MonoBehaviourExtension.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Input/TankController.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/Shotgun.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/HeavyGun.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/Projectile.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Configs/EntityStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/RusherConfig.json.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EConfigs.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/TankConfig.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Starter.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/FollowerConfig.json" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/RusherConfig.json" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/TankConfig.json" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/ResourceManager/ResourceManager.cs" />
+      <option value="$PROJECT_DIR$/Assets/README.MD" />
+      <option value="$PROJECT_DIR$/README.md" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/IWeaponStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/Weapon.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/HeavyGunStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/IWeapon.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Tank/WeaponController.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/IDamageable.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/IEntityStats.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/IDamageDealer.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/NewEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/NewEnemyMonoBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/Rusher.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/EnemyCreator.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/FollowerEnemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/EntityData.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/Enemy.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Entity.cs" />
+      <option value="$PROJECT_DIR$/Assets/TankGame/Scripts/Configs/ConfigReader.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Solution/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="381" lastUsage="1683121212119" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="8" lastUsage="1681198291268" />
+    </language>
+    <language id="MSBuild">
+      <summary usageCount="1" lastUsage="1681158074747" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1681198516907" />
+    </language>
+    <language id="UnityYaml">
+      <summary usageCount="1" lastUsage="1681132271280" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Content" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Content" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Material" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Configs" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Entity" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Entity" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Enemy" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Tank" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Weapons" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="71192831:AssetsRootNode" />
+              <item name="TankGame" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Scripts" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Entity" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Enemy" type="daf7a7f:UnityExplorerFileSystemNode" />
+              <item name="Enemy.cs" type="daf7a7f:UnityExplorerFileSystemNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-project-names" value="true" />
+        <option name="show-tilde-folders" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="TankGame" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Solution" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assembly-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Assets" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="true" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solution" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solution" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Solution" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="Bookmarks">
+          <value>
+            <window_info id="Bookmarks" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="4" weight="0.32994187" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info active="true" id="Commit" sideWeight="0.5005208" visible="true" weight="0.20089287" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="0" show_stripe_button="false" weight="0.32977617" />
+          </value>
+        </entry>
+        <entry key="Database Changes">
+          <value>
+            <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="3" weight="0.25629845" />
+          </value>
+        </entry>
+        <entry key="Dynamic Program Analysis">
+          <value>
+            <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="File Transfer">
+          <value>
+            <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Find">
+          <value>
+            <window_info anchor="bottom" id="Find" order="1" weight="0.4656008" />
+          </value>
+        </entry>
+        <entry key="IL Viewer">
+          <value>
+            <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Inspection">
+          <value>
+            <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+          </value>
+        </entry>
+        <entry key="Inspection Results">
+          <value>
+            <window_info anchor="bottom" id="Inspection Results" order="4" weight="0.32994187" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" id="Notifications" order="0" weight="0.25026262" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" order="4" weight="0.32958984" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="4" weight="0.32994187" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50051653" visible="true" weight="0.20089287" />
+          </value>
+        </entry>
+        <entry key="Pull Requests">
+          <value>
+            <window_info id="Pull Requests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info active="true" anchor="bottom" id="Run" order="2" weight="0.32994187" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="0" sideWeight="0.49948347" side_tool="true" weight="0.15538782" />
+          </value>
+        </entry>
+        <entry key="TODO">
+          <value>
+            <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="4" />
+          </value>
+        </entry>
+        <entry key="TypeScript">
+          <value>
+            <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unit Tests">
+          <value>
+            <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unit Tests Coverage">
+          <value>
+            <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+          </value>
+        </entry>
+        <entry key="Unity">
+          <value>
+            <window_info anchor="bottom" id="Unity" order="4" weight="0.32994187" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" weight="0.32994187" />
+          </value>
+        </entry>
+        <entry key="documentation.v2">
+          <value>
+            <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Attach to Unity Editor.Attach to Unity Editor" executorId="Debug" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="66302000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info active="true" id="Commit" sideWeight="0.5005208" visible="true" weight="0.20089287" />
+      <window_info id="Structure" order="0" sideWeight="0.49948347" side_tool="true" weight="0.15538782" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.50051653" visible="true" weight="0.20089287" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32994187" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4656008" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" weight="0.32994187" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.25629845" />
+      <window_info anchor="bottom" id="Endpoints" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Inspection Results" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32994187" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="NuGet" order="4" weight="0.32958984" />
+      <window_info anchor="bottom" id="Services" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="4" weight="0.32994187" />
+      <window_info anchor="right" id="Unit Tests Coverage" show_stripe_button="false" />
+      <window_info anchor="right" id="IL Viewer" show_stripe_button="false" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="0" show_stripe_button="false" weight="0.32977617" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25026262" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="346" key="Github.ShareDialog" timestamp="1681156976187">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="690" y="346" key="Github.ShareDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1681156976187" />
+    <state x="538" y="221" key="Github.UntrackedFilesDialog" timestamp="1681157091685">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="538" y="221" key="Github.UntrackedFilesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1681157091685" />
+    <state width="1839" height="451" key="GridCell.Tab.0.bottom" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.0.center" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.0.left" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.0.right" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.1.bottom" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.1.center" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.1.left" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.1.right" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.2.bottom" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.2.center" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.2.left" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.2.right" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.3.bottom" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.3.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.3.center" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.3.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.3.left" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.3.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.3.right" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.3.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.4.bottom" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.4.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.4.center" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.4.center/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.4.left" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.4.left/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state width="1839" height="451" key="GridCell.Tab.4.right" timestamp="1681199454823">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1839" height="451" key="GridCell.Tab.4.right/0.0.1920.1032@0.0.1920.1032" timestamp="1681199454823" />
+    <state x="616" y="204" key="RiderGenerateDialog" timestamp="1681738236268">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="204" key="RiderGenerateDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1681738236268" />
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2" timestamp="1681199396578">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="552" y="249" key="Vcs.Push.Dialog.v2/0.0.1920.1032@0.0.1920.1032" timestamp="1681199396578" />
+    <state width="968" height="524" key="XDebugger.FullValuePopup" timestamp="1680808131983">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="968" height="524" key="XDebugger.FullValuePopup/0.0.1920.1032@0.0.1920.1032" timestamp="1680808131983" />
+    <state x="634" y="81" width="736" height="634" key="find.popup" timestamp="1681154105553">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="634" y="81" width="736" height="634" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1681154105553" />
+    <state x="616" y="233" key="run.anything.popup" timestamp="1680953831020">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="616" y="233" key="run.anything.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1680953831020" />
+    <state x="623" y="218" width="672" height="696" key="search.everywhere.popup" timestamp="1681738247039">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="218" width="672" height="696" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1681738247039" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>typeof(EConfigs.RusherConfig)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>typeof(configs)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>typeof(U).Name</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>typeof(U).ToString()</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>typeof(U)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+    <expressions id="immediateWindow">
+      <expression>
+        <expression-string>typeof(EConfigs)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>configs</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>(targetLayer | (1 &lt;&lt; targetObject.layer))</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>targetLayer == (targetLayer | (1 &lt;&lt; targetObject.layer))</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>targetLayer_targetLayer =</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>_targetLayer</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>typeof(resourceEnum)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nameof(U)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>nameof(resourceEnum)</expression-string>
+        <language-id>C#</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/Enemy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/EnemyCreator.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/FollowerEnemy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EEnemy.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enemy/Rusher.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/IResourceManager.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5a41d6b7189842eca409fd0b1c3e3dcf17bf78/fa/2d4ac412/Type.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <marker date="1680619096710" expanded="false" signature="0:309" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1680619096710" expanded="false" signature="317:401" ph="..." />
+            <marker date="1680619096710" expanded="true" signature="419:13351" ph="{...}" />
+            <marker date="1680619096710" expanded="true" signature="473:13349" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7b2a272e51214e2f91bbc4fb4f28eff8159400/fc/6dfe3f13/UnityException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="127" selection-start-line="5" selection-start-column="127" selection-end-line="5" selection-end-column="127" />
+          <folding>
+            <marker date="1681139328762" expanded="true" signature="0:461" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1681139328762" expanded="false" signature="469:541" ph="..." />
+            <marker date="1681139328762" expanded="true" signature="564:1253" ph="{...}" />
+            <marker date="1681139328762" expanded="true" signature="656:1251" ph="{...}" />
+            <marker date="1681139328762" expanded="true" signature="817:863" ph="{...}" />
+            <marker date="1681139328762" expanded="true" signature="928:974" ph="{...}" />
+            <marker date="1681139328762" expanded="true" signature="1081:1127" ph="{...}" />
+            <marker date="1681139328762" expanded="true" signature="1235:1247" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/ResourceLoader.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7b2a272e51214e2f91bbc4fb4f28eff8159400/35/bb887125/Transform.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="212" column="23" selection-start-line="212" selection-start-column="23" selection-end-line="212" selection-end-column="23" />
+          <folding>
+            <marker date="1681143109558" expanded="false" signature="0:456" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1681143109558" expanded="false" signature="464:621" ph="..." />
+            <marker date="1681143109558" expanded="true" signature="644:32991" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="649:743" ph="///   &lt;para&gt;Position, rotation and scale of an object.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="998:32989" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="1028:1040" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="1046:1144" ph="///   &lt;para&gt;The world space position of the Transform.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="1172:1348" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="1188:1290" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="1354:1469" ph="///   &lt;para&gt;Position of the transform relative to the parent transform.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="1502:1688" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="1518:1625" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="1751:1857" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="2133:2229" ph="///   &lt;para&gt;The rotation as Euler angles in degrees.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="2260:2366" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="2372:2512" ph="///   &lt;para&gt;The rotation as Euler angles in degrees relative to the parent transform's rotation.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="2548:2664" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="2670:2771" ph="///   &lt;para&gt;The red axis of the transform in world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="2796:2930" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="2936:3039" ph="///   &lt;para&gt;The green axis of the transform in world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="3061:3189" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="3195:3338" ph="///   &lt;para&gt;Returns a normalized vector representing the blue axis of the transform in world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="3365:3484" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="3490:3616" ph="///   &lt;para&gt;A Quaternion that stores the rotation of the Transform in world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="3647:3826" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="3663:3768" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="3832:3967" ph="///   &lt;para&gt;The rotation of the transform relative to the transform rotation of the parent.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="4003:4192" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="4019:4129" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="4274:4399" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="4795:4913" ph="///   &lt;para&gt;The scale of the transform relative to the GameObjects parent.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="4943:5123" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="4959:5063" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="5129:5213" ph="///   &lt;para&gt;The parent of the transform.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="5241:5725" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="5291:5719" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="5764:5843" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="5941:6336" ph="///   &lt;para&gt;Set the parent of the transform.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="6409:6804" ph="///   &lt;para&gt;Set the parent of the transform.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="6992:7125" ph="///   &lt;para&gt;Matrix that transforms a point from world space into local space (Read Only).&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="7165:7301" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="7181:7295" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="7307:7440" ph="///   &lt;para&gt;Matrix that transforms a point from local space into world space (Read Only).&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="7480:7616" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="7496:7610" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="7622:7828" ph="///   &lt;para&gt;Sets the world space position and rotation of the Transform component.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="7981:8240" ph="///   &lt;para&gt;Sets the position and rotation of the Transform component in local space (i.e. relative to its parent ... " />
+            <marker date="1681143109558" expanded="true" signature="8739:8945" ph="///   &lt;para&gt;Moves the transform in the direction and distance of translation.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="9039:9200" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="9206:9412" ph="///   &lt;para&gt;Moves the transform in the direction and distance of translation.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="9509:9792" ph="///   &lt;para&gt;Moves the transform by x along the x axis, y along the y axis, and z along the z axis.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="9951:10234" ph="///   &lt;para&gt;Moves the transform by x along the x axis, y along the y axis, and z along the z axis.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="10346:10552" ph="///   &lt;para&gt;Moves the transform in the direction and distance of translation.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="10621:10789" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="10795:11078" ph="///   &lt;para&gt;Moves the transform by x along the x axis, y along the y axis, and z along the z axis.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="11212:11668" ph="///   &lt;para&gt;Applies a rotation of eulerAngles.z degrees around the z-axis, eulerAngles.x degrees around the x-axi ... " />
+            <marker date="1681143109558" expanded="true" signature="11754:12022" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="12028:12324" ph="///   &lt;para&gt;Applies a rotation of eulerAngles.z degrees around the z-axis, eulerAngles.x degrees around the x-axi ... " />
+            <marker date="1681143109558" expanded="true" signature="12405:13064" ph="///   &lt;para&gt;The implementation of this method applies a rotation of zAngle degrees around the z axis, xAngle degr ... " />
+            <marker date="1681143109558" expanded="true" signature="13247:13747" ph="///   &lt;para&gt;The implementation of this method applies a rotation of zAngle degrees around the z axis, xAngle degr ... " />
+            <marker date="1681143109558" expanded="true" signature="14041:14485" ph="///   &lt;para&gt;Rotates the object around the given axis by the number of degrees defined by the given angle.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="14582:14826" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="14832:15117" ph="///   &lt;para&gt;Rotates the object around the given axis by the number of degrees defined by the given angle.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="15214:15473" ph="///   &lt;para&gt;Rotates the transform about axis passing through point in world coordinates by angle degrees.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="15544:15788" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="15794:16070" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at target's current position.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="16157:16265" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="16271:16547" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at target's current position.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="16588:16699" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="16705:16969" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at worldPosition.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="17116:17380" ph="///   &lt;para&gt;Rotates the transform so the forward vector points at worldPosition.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="17686:17836" ph="///   &lt;para&gt;Transforms direction from local space to world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="17893:18006" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="18012:18228" ph="///   &lt;para&gt;Transforms direction x, y, z from local space to world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="18349:18547" ph="///   &lt;para&gt;Transforms a direction from world space to local space. The opposite of Transform.TransformDirection. ... " />
+            <marker date="1681143109558" expanded="true" signature="18611:18731" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="18737:19003" ph="///   &lt;para&gt;Transforms the direction x, y, z from world space to local space. The opposite of Transform.Transform ... " />
+            <marker date="1681143109558" expanded="true" signature="19138:19282" ph="///   &lt;para&gt;Transforms vector from local space to world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="19333:19440" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="19446:19659" ph="///   &lt;para&gt;Transforms vector x, y, z from local space to world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="19774:19963" ph="///   &lt;para&gt;Transforms a vector from world space to local space. The opposite of Transform.TransformVector.&lt;/para ... " />
+            <marker date="1681143109558" expanded="true" signature="20021:20135" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="20141:20401" ph="///   &lt;para&gt;Transforms the vector x, y, z from world space to local space. The opposite of Transform.TransformVec ... " />
+            <marker date="1681143109558" expanded="true" signature="20530:20678" ph="///   &lt;para&gt;Transforms position from local space to world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="20730:20838" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="20844:21063" ph="///   &lt;para&gt;Transforms the position x, y, z from local space to world space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="21176:21324" ph="///   &lt;para&gt;Transforms position from world space to local space.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="21383:21498" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="21504:21765" ph="///   &lt;para&gt;Transforms the position x, y, z from world space to local space. The opposite of Transform.TransformP ... " />
+            <marker date="1681143109558" expanded="true" signature="21892:21995" ph="///   &lt;para&gt;Returns the topmost transform in the hierarchy.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="22136:22240" ph="///   &lt;para&gt;The number of children the parent Transform has.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="22367:22446" ph="///   &lt;para&gt;Unparents all children.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="22603:22719" ph="///   &lt;para&gt;Move the transform to the start of the local transform list.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="22818:22932" ph="///   &lt;para&gt;Move the transform to the end of the local transform list.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="23030:23159" ph="///   &lt;para&gt;Sets the sibling index.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="23457:23536" ph="///   &lt;para&gt;Gets the sibling index.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="23897:24184" ph="///   &lt;para&gt;Finds a child by name n and returns it.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="24499:24598" ph="///   &lt;para&gt;The global scale of the object (Read Only).&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="24628:24791" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="24681:24785" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="24797:24927" ph="///   &lt;para&gt;Is this transform a child of parent?&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="25147:25277" ph="///   &lt;para&gt;Has the transform changed since the last time the flag was set to 'false'?&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="25739:25868" ph="///   &lt;para&gt;&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="26205:26501" ph="///   &lt;para&gt;Returns a transform child by index.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="26915:27038" ph="///   &lt;para&gt;The transform capacity of the transform's hierarchy data structure.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="27071:27190" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="27552:27677" ph="///   &lt;para&gt;The number of transforms in the transform's hierarchy data structure.&lt;/para&gt; ... " />
+            <marker date="1681143109558" expanded="true" signature="28215:28331" ph="{...}" />
+            <marker date="1681143109558" expanded="true" signature="32625:32985" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EEntity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <folding>
+            <marker date="1681133565760" expanded="true" signature="19:106" ph="{...}" />
+            <marker date="1681133565760" expanded="true" signature="45:104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EProjectiles.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding>
+            <marker date="1681154523938" expanded="true" signature="19:106" ph="{...}" />
+            <marker date="1681154523938" expanded="true" signature="50:104" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EWeapons.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <marker date="1681133580216" expanded="true" signature="19:108" ph="{...}" />
+            <marker date="1681133580216" expanded="true" signature="46:106" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Input/EInputCommands.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <folding>
+            <marker date="1681133613143" expanded="true" signature="19:123" ph="{...}" />
+            <marker date="1681133613143" expanded="true" signature="52:121" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Input/IInputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1681133621539" expanded="true" signature="34:241" ph="{...}" />
+            <marker date="1681133621539" expanded="true" signature="71:239" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Input/InputHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <folding>
+            <marker date="1681133621711" expanded="true" signature="6:32" ph="..." />
+            <marker date="1681133621711" expanded="true" signature="53:810" ph="{...}" />
+            <marker date="1681133621711" expanded="true" signature="116:808" ph="{...}" />
+            <marker date="1681133621711" expanded="true" signature="337:802" ph="{...}" />
+            <marker date="1681133621711" expanded="true" signature="423:495" ph="{...}" />
+            <marker date="1681133621711" expanded="true" signature="578:651" ph="{...}" />
+            <marker date="1681133621711" expanded="true" signature="727:792" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Input/TankController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+          <folding>
+            <marker date="1681154561145" expanded="true" signature="89:1969" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="419:553" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="583:882" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="911:1035" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="1058:1617" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="1113:1355" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="1403:1607" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="1656:1789" ph="{...}" />
+            <marker date="1681154561145" expanded="true" signature="1829:1963" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/Shotgun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+          <folding>
+            <marker date="1681154688782" expanded="true" signature="6:52" ph="..." />
+            <marker date="1681154688782" expanded="true" signature="73:1107" ph="{...}" />
+            <marker date="1681154688782" expanded="true" signature="109:1105" ph="{...}" />
+            <marker date="1681154688782" expanded="true" signature="402:641" ph="{...}" />
+            <marker date="1681154688782" expanded="true" signature="482:630" ph="{...}" />
+            <marker date="1681154688782" expanded="true" signature="678:1099" ph="{...}" />
+            <marker date="1681154688782" expanded="true" signature="754:1089" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assembly-CSharp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-924" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Extensions/MonoBehaviourExtension.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681154546177" expanded="true" signature="88:581" ph="{...}" />
+            <marker date="1681154546177" expanded="true" signature="159:379" ph="{...}" />
+            <marker date="1681154546177" expanded="true" signature="226:279" ph="{...}" />
+            <marker date="1681154546177" expanded="true" signature="476:575" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/RusherConfig.json.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/ResourceManager/IResourceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681139623296" expanded="true" signature="6:32" ph="..." />
+            <marker date="1681139623296" expanded="true" signature="52:230" ph="{...}" />
+            <marker date="1681139623296" expanded="true" signature="92:228" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Enums/EConfigs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1681194749013" expanded="true" signature="18:124" ph="{...}" />
+            <marker date="1681194749013" expanded="true" signature="45:122" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/TankConfig.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/FollowerConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/TankConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Resources/EConfigs/RusherConfig.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="10" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/README.MD" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/ResourceManager/EnumPair.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <folding>
+            <marker date="1681140583245" expanded="true" signature="6:47" ph="..." />
+            <marker date="1681140583245" expanded="true" signature="67:933" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="95:643" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="218:290" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="339:524" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="392:450" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="567:637" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="712:931" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="769:821" ph="{...}" />
+            <marker date="1681140583245" expanded="true" signature="867:925" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/ResourceManager/ResourceManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+          <folding>
+            <marker date="1681154561523" expanded="false" signature="6:101" ph="..." />
+            <marker date="1681154561523" expanded="true" signature="121:2472" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="175:2470" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="312:480" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="514:667" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="791:1599" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="928:1259" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="1051:1245" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="1370:1513" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="1674:1885" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="1953:2464" ph="{...}" />
+            <marker date="1681154561523" expanded="true" signature="2091:2403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_EDITOR_AND_PREVIEW" is_vertical_split="false">
+          <first_editor relative-caret-position="44">
+            <caret line="2" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/IWeaponStats.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/Projectile.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/HeavyGunStats.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681414042195" expanded="true" signature="202:329" ph="{...}" />
+            <marker date="1681414042195" expanded="true" signature="276:323" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Starter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681197103852" expanded="true" signature="39:1375" ph="{...}" />
+            <marker date="1681197103852" expanded="true" signature="82:1373" ph="{...}" />
+            <marker date="1681197103852" expanded="true" signature="205:304" ph="{...}" />
+            <marker date="1681197103852" expanded="true" signature="338:416" ph="{...}" />
+            <marker date="1681197103852" expanded="true" signature="445:491" ph="{...}" />
+            <marker date="1681197103852" expanded="true" signature="522:697" ph="{...}" />
+            <marker date="1681197103852" expanded="true" signature="724:1367" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/IWeapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding>
+            <marker date="1681737455849" expanded="true" signature="18:237" ph="{...}" />
+            <marker date="1681737455849" expanded="true" signature="49:235" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/HeavyGun.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1681155809744" expanded="true" signature="39:448" ph="{...}" />
+            <marker date="1681155809744" expanded="true" signature="76:446" ph="{...}" />
+            <marker date="1681155809744" expanded="true" signature="118:440" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Weapons/Weapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+          <folding>
+            <marker date="1681737732986" expanded="true" signature="6:32" ph="..." />
+            <marker date="1681737732986" expanded="true" signature="52:1693" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="112:1691" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="524:631" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="716:797" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="840:1261" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="903:995" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="1323:1503" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="1429:1493" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="1533:1593" ph="{...}" />
+            <marker date="1681737732986" expanded="true" signature="1624:1685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Tank/WeaponController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1034">
+          <caret line="47" column="56" selection-start-line="47" selection-start-column="56" selection-end-line="47" selection-end-column="56" />
+          <folding>
+            <marker date="1681737475979" expanded="true" signature="6:66" ph="..." />
+            <marker date="1681737475979" expanded="true" signature="86:1996" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="138:1994" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="404:493" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="559:626" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="670:842" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="743:832" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="894:1276" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="963:1047" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="1064:1224" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="1335:1721" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="1764:1988" ph="{...}" />
+            <marker date="1681737475979" expanded="true" signature="1837:1923" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Configs/EntityStats.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <marker date="1681193844841" expanded="true" signature="18:149" ph="{...}" />
+            <marker date="1681193844841" expanded="true" signature="50:147" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/FollowerEnemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding>
+            <marker date="1681751398178" expanded="true" signature="39:490" ph="{...}" />
+            <marker date="1681751398178" expanded="true" signature="87:488" ph="{...}" />
+            <marker date="1681751398178" expanded="true" signature="115:482" ph="{...}" />
+            <marker date="1681751398178" expanded="true" signature="159:472" ph="{...}" />
+            <marker date="1681751398178" expanded="true" signature="272:458" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/Rusher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+          <folding>
+            <marker date="1681751398198" expanded="true" signature="6:44" ph="..." />
+            <marker date="1681751398198" expanded="true" signature="105:1554" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="144:223" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="349:1144" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="393:1134" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="462:607" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="666:1120" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="776:975" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="1000:1102" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="1188:1377" ph="{...}" />
+            <marker date="1681751398198" expanded="true" signature="1417:1548" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/NewEnemyMonoBehaviour.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Configs/ConfigReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <marker date="1683121006055" expanded="true" signature="38:381" ph="{...}" />
+            <marker date="1683121006055" expanded="true" signature="70:379" ph="{...}" />
+            <marker date="1683121006055" expanded="true" signature="132:373" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/EnemyCreator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#52#0" expanded="true" />
+            <marker date="1681751398261" expanded="true" signature="120:2751" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="433:932" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="652:921" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="1017:1336" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="1261:1326" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="1378:1517" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="1570:2119" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="2194:2443" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="2267:2387" ph="{...}" />
+            <marker date="1681751398261" expanded="true" signature="2488:2745" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Entity.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+            <marker date="1681738279855" expanded="true" signature="107:1235" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="540:649" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="695:956" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="732:823" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="840:946" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="987:1046" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="1079:1138" ph="{...}" />
+            <marker date="1681738279855" expanded="true" signature="1172:1229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/IDamageable.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681737785693" expanded="true" signature="69:262" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/IDamageDealer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681737981051" expanded="true" signature="55:109" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/IEntityStats.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681737785649" expanded="true" signature="54:107" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/EntityData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681738279751" expanded="true" signature="106:752" ph="{...}" />
+            <marker date="1681738279751" expanded="true" signature="421:553" ph="{...}" />
+            <marker date="1681738279751" expanded="true" signature="599:746" ph="{...}" />
+            <marker date="1681738279751" expanded="true" signature="677:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TankGame/Scripts/Entity/Enemy/Enemy.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1681751398274" expanded="true" signature="88:1131" ph="{...}" />
+            <marker date="1681751398274" expanded="true" signature="394:455" ph="{...}" />
+            <marker date="1681751398274" expanded="true" signature="516:574" ph="{...}" />
+            <marker date="1681751398274" expanded="true" signature="612:738" ph="{...}" />
+            <marker date="1681751398274" expanded="true" signature="798:999" ph="{...}" />
+            <marker date="1681751398274" expanded="true" signature="900:989" ph="{...}" />
+            <marker date="1681751398274" expanded="true" signature="1040:1125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
