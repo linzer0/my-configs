@@ -1,3 +1,0 @@
-com.jetbrains.dotTrace.dotMemory
-com.jetbrains.space
-unreal-link

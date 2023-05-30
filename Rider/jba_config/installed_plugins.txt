@@ -1,4 +1,0 @@
-IdeaVIM
-com.microsoft.vso.idea
-com.intellij.resharper.HeapAllocationsViewer
-some.awesome
